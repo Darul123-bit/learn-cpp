@@ -1,11 +1,13 @@
 # Apprenons à programmer en C++
 
 
-## Chapitre 1 : [Fondamentaux I](chapitre-1)
+## Chapitre 1 : [Fondamentaux I](chapitre-1/chap1.md)
 
 ## Chapitre 2 : [Types standards, Constantes et Variables](chapitre-2)
 
 ## Chapitre 3 : [Fonctions et Classes](chapitre-3)
 
-## Chapitre 4 : [Entrée et Sortie avec Streams]
+## Chapitre 4 : [Entrée et Sortie avec Streams](chapitre-4)
+
+## Chapitre 5 : [](chapitre-5)
 
