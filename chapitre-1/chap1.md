@@ -7,7 +7,7 @@ Ce chapitre décrit les caractéristiques fondamentales du langage de programmat
 
 
 <p align="center">
-  <img src="../assets/chap1-image1.jpeg#center" alt="">
+  <img src="../assets/chap1-image1.png#center" alt="">
 </p>
 
 
